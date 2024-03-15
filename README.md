@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando pyhton y PyQt5</p>
+<p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando python y PyQt5</p>
 </div>
                                                                                       
 </td>

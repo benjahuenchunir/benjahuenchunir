@@ -36,8 +36,26 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando NextJs.</p>
-</div>                                                             
+</p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando NextJs. En desarrollo.</p>
+</div>  
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">InventarioApp</h3>
+<div align="center">
+<p>Aplicación mobile que ayuda a reducir el desperdicio de alimentos al llevar un inventario de los productos de su casa. En desarrollo.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Ayua</h3>
+<div align="center">                                       
+</p>Aplicación mobile que ayuda a encontrar profesionales para todos los servicios del hogar. En desarrollo.</p>
+</div>  
+</tr>
+
 </table>                                                                                 
 </div>
 <br>

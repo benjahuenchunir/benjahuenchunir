@@ -44,7 +44,7 @@
 <td width="50%">
 <h3 align="center">DCCommanders</h3>
 <div align="center">
-<a href="https://github.com/benjahuenchunir/" target="_blank"><video src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/DCCommanders.mp4" width="400" alt="DCCommanders"></a>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/DCCommanders.gif" width="400" alt="DCCommanders"/>
 <p>Juego de batalla que ayuda a aprender OOP desarrollado en python. Interfaz visual con PyQt5. Creado junto a <a href="https://github.com/TheMightyTsar">@TheMightyTsar</a>, <a href="https://github.com/fvidalf">@fvidalf</a> y <a href="https://github.com/damiangubbins">@damiangubbins</a></p>
 </div>
                                                                                       

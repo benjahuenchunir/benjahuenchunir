@@ -1,6 +1,3 @@
-<div align="center">
-<h1 align="center">Hola, soy Benja</a> 👋</h1>
-</div>
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/GitHubHeader.png">
 
 ## Sobre mi

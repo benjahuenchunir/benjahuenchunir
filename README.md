@@ -1,11 +1,5 @@
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/GitHubHeader.png">
 
-## Sobre mi
-
-- 📲 Mobile developer
-
-<br>
-
 ## Proyectos
 <table>
 <tr>

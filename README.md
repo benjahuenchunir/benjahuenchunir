@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando Nuxt En desarrollo.</p>
+</p>Herramienta que facilita la toma de ramos generando todas las combinaciones posibles segun ciertos parametros (tipos de tope permitido, campus, profesor, formato, etc) utilizando Nuxt. En desarrollo.</p>
 </div>  
 </tr>
 

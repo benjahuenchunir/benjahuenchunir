@@ -46,7 +46,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%">
 <h3 align="center">Smart Grocery & Recipe Ecosystem</h3>
 <div align="center">
-<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/InventoryAppAndRecipeWebsite.jpg" width="400" alt="Ecosystem UI"/>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/InventoryAppAndRecipeWebsite.png" width="400" alt="Ecosystem UI"/>
 <br>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white">

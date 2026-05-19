@@ -1,4 +1,4 @@
-<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/GitHubHeader.png">
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/assets/GitHubHeader.png">
 
 Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Cloud infrastructure, AI pipelines, and full-stack development. 
 
@@ -9,7 +9,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%">
 <h3 align="center">Text-to-SQL Agent</h3>
 <div align="center">
-<img src="path_to_aws_diagram.png" width="400" alt="AWS Architecture"/>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/TextToSql.png" width="400" alt="AWS Architecture"/>
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
@@ -83,7 +83,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%" valign="top">
 <h3 align="center">Deepspace</h3>
 <div align="center">
-<a href="https://github.com/benjahuenchunir/React_Madrid_frontend" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/Deepspace.png" width="400" alt="Deepspace"></a>
+<a href="https://github.com/benjahuenchunir/React_Madrid_frontend" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/older_projects/Deepspace.png" width="400" alt="Deepspace"></a>
 <br>
 <a href="https://github.com/benjahuenchunir/React_Madrid_frontend" target="_blank">
 <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -103,7 +103,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%" valign="top">
 <h3 align="center">HorarioUC</h3>
 <div align="center">
-<a href="https://github.com/benjahuenchunir/HorarioUC" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/HorarioUC.png" width="400" alt="HorarioUC"></a>
+<a href="https://github.com/benjahuenchunir/HorarioUC" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/older_projects/HorarioUC.png" width="400" alt="HorarioUC"></a>
 <br>
 <a href="https://github.com/benjahuenchunir/HorarioUC" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -118,7 +118,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%" valign="top">
 <h3 align="center">DCCommanders</h3>
 <div align="center">
-<a href="https://github.com/benjahuenchunir/DCCommanders" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/DCCommanders.gif" width="400" alt="DCCommanders"/></a>
+<a href="https://github.com/benjahuenchunir/DCCommanders" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/older_projects/DCCommanders.gif" width="400" alt="DCCommanders"/></a>
 <br>
 <a href="https://github.com/benjahuenchunir/DCCommanders" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">

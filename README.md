@@ -6,7 +6,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Text-to-SQL Agent</h3>
 <div align="center">
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/TextToSql.png" width="400" alt="AWS Architecture"/>
@@ -18,7 +18,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 </div>
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Automated Grading Engine</h3>
 <div align="center">
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/EFMADemo.png" width="400" alt="Grading App"/>
@@ -32,7 +32,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">AI Floorplan Parser</h3>
 <div align="center">
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/FloorplanParser.jpg" width="400" alt="U-Net Segmentation"/>
@@ -43,7 +43,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 </div>
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Smart Grocery & Recipe Ecosystem</h3>
 <div align="center">
 <img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/InventoryAppAndRecipeWebsite.png" width="400" alt="Ecosystem UI"/>
@@ -55,6 +55,9 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 </td>
 </tr>
 </table>
+
+<br>
+<br>
 
 ### 📚 Academic & Past Projects
 

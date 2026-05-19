@@ -21,7 +21,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%">
 <h3 align="center">Automated Grading Engine</h3>
 <div align="center">
-<img src="path_to_aptus_demo.png" width="400" alt="Grading App"/>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/EFMADemo.png" width="400" alt="Grading App"/>
 <br>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
@@ -35,7 +35,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%">
 <h3 align="center">AI Floorplan Parser</h3>
 <div align="center">
-<img src="path_to_unet_demo.png" width="400" alt="U-Net Segmentation"/>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/FloorplanParser.jpg" width="400" alt="U-Net Segmentation"/>
 <br>
 <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -46,7 +46,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%">
 <h3 align="center">Smart Grocery & Recipe Ecosystem</h3>
 <div align="center">
-<img src="path_to_ecosystem.png" width="400" alt="Ecosystem UI"/>
+<img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/new_projects/InventoryAppAndRecipeWebsite.jpg" width="400" alt="Ecosystem UI"/>
 <br>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white">
@@ -63,7 +63,7 @@ Hi! I'm Benjamín, a Software Engineer and Systems Architect specializing in Clo
 <td width="50%" valign="top">
 <h3 align="center">Distributed Betting Exchange</h3>
 <div align="center">
-<a href="https://github.com/benjahuenchunir/arqui-backend" target="_blank"><img src="path_to_architecture_diagram.png" width="400" alt="Betting Platform Architecture"></a>
+<a href="https://github.com/benjahuenchunir/arqui-backend" target="_blank"><img src="https://github.com/benjahuenchunir/benjahuenchunir/blob/main/older_projects/BettingExchangeDiagram.jpg" width="400" alt="Betting Platform Architecture"></a>
 <br>
 <a href="https://github.com/benjahuenchunir/arqui-frontend" target="_blank">
   <img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
